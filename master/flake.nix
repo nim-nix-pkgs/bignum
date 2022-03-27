@@ -11,6 +11,7 @@
   inputs.src-bignum-master.ref   = "refs/heads/master";
   inputs.src-bignum-master.owner = "SciNim";
   inputs.src-bignum-master.repo  = "bignum";
+  inputs.src-bignum-master.dir   = "";
   inputs.src-bignum-master.type  = "github";
   
   inputs."gmp".owner = "nim-nix-pkgs";

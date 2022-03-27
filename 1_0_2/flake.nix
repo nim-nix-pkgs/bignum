@@ -11,6 +11,7 @@
   inputs.src-bignum-1_0_2.ref   = "refs/tags/1.0.2";
   inputs.src-bignum-1_0_2.owner = "SciNim";
   inputs.src-bignum-1_0_2.repo  = "bignum";
+  inputs.src-bignum-1_0_2.dir   = "";
   inputs.src-bignum-1_0_2.type  = "github";
   
   inputs."gmp".owner = "nim-nix-pkgs";
